@@ -51,7 +51,8 @@ match outcomes, and attendance trends.
 
 ## 🖼️ Dashboard Preview
 
-![FIFA World Cup Dashboard](Dashboard_Preview.png)
+<img width="1918" height="820" alt="FIfa" src="https://github.com/user-attachments/assets/661920fe-e84e-4269-b7d9-b7167930e382" />
+
 
 ## 📂 Project Files
 
